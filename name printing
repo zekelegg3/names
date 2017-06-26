@@ -1,0 +1,5 @@
+name = Zeke 
+lastname = Legg
+
+puts "Hi, my name is: #{name}"
+puts "my last name is #{lastname}"
