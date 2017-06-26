@@ -4,3 +4,4 @@ print "what is your last name? "
 last_name = gets.chomp
 
 puts "My first name is #{name} and my last name is #{last_name}"
+puts "My full name is #{name} #{last_name}"
